@@ -1,0 +1,11 @@
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\bin\Debug\Pracownik2.exe.config
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\bin\Debug\Pracownik2.exe
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\bin\Debug\Pracownik2.pdb
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik2.csproj.AssemblyReference.cache
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik2.Properties.Resources.resources
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik2.csproj.GenerateResource.cache
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik2.csproj.CoreCompileInputs.cache
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik2.exe
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik2.pdb
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik2.exe.config
+C:\Users\swypych\source\repos\Pracownik2\Pracownik2\obj\Debug\Pracownik.Form1.resources
